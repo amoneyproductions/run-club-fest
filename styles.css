@@ -14,8 +14,8 @@
   --cream-2: #fbf5e8;
   --ink: #241c2e;
 
-  --font-display: "Fraunces", Georgia, serif;
-  --font-body: "Space Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 
   --radius: 18px;
   --max-w: 1180px;

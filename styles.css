@@ -310,7 +310,15 @@ a { color: inherit; }
   color: var(--cream-2);
   font-size: clamp(1.7rem, 3.5vw, 2.4rem);
   max-width: 20ch;
-  margin-bottom: 44px;
+  margin-bottom: 14px;
+}
+
+.how-note {
+  color: rgba(251, 245, 232, 0.6);
+  font-size: 0.92rem;
+  font-style: italic;
+  max-width: 46ch;
+  margin: 0 0 40px;
 }
 
 .steps {
